@@ -10,7 +10,7 @@ def argue(is)
   is
 end
 
-def greeting
+def greeting(gtg, name)
 
 end
 
