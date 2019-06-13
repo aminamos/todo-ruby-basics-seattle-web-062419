@@ -14,7 +14,7 @@ def greeting(gtg, name)
 
 end
 
-def return_a_value(nice)
+def return_a_value
   "Nice"
 end
 
